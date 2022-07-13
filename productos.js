@@ -1,1 +1,0 @@
-console.log("¡HELLO WILLIAN, there is no products to show!");
